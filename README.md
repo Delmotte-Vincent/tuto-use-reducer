@@ -1,6 +1,6 @@
 # UseReducer : branchez votre cerveau !
 
-Retrouvez l'article de ce projet à l'adresse suivante : //Todo
+Retrouvez l'article de ce projet à l'adresse suivante : [Lien vers l'article](https://dev.to/vincent_react/usereducer-branchez-votre-cerveau--1198)
 
 ## Description
 Ce projet **React** est un exemple d'implémentation d'un reducer. Le projet permettant d'illustrer les propos de mon article DevTo  " **UseReducer : branchez votre cerveau !** ".
